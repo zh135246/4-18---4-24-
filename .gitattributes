@@ -1,2 +1,4 @@
 *.java linguist-language=JAVA;
 *.cpp linguist-language=C++;
+*.java linguist-language=JAVA;
+*.cpp linguist-language=C++;
